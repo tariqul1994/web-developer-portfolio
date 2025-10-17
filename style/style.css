@@ -46,6 +46,15 @@ nav{
  font-size: 20px;
  }
  .banner{
-
+display: flex;
+justify-content: space-between;
  
  }
+ .banner-greeting{
+  max-width: 50%;
+ }
+ .banner-greeting h1{
+  font-size: 60px;
+  font-weight: 800;
+  margin-bottom: 20px;
+ } 
